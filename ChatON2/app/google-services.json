@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881275170528",
+    "project_id": "chat-on-96d49",
+    "storage_bucket": "chat-on-96d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881275170528:android:4c85c4eb0ccdc3537daa85",
+        "android_client_info": {
+          "package_name": "com.example.chaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881275170528-hslfhmotvrvo8rj24lmeji1pf825g7uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7veGcrvIPkpB3SYVzTHoBbgV3IRRRjsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881275170528-hslfhmotvrvo8rj24lmeji1pf825g7uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

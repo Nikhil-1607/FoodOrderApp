@@ -10,8 +10,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAAmEOviYY:AAAAiFwdyYY:APA91bHq5vVNEtL5zdZpdSGzfpXW6JQ9166AqXPGbW3PcDMzMy3EZ4IvNPGPLuw_w2dwVh6a8q4tdrgduB485URfAGfojQEZHxRc8dwD9GKmlDJ9chxkePXYfKQ2AMqg02oVwDMT1b0R"
-            }
+                    "Authorization:key="
     )
 
     @POST("fcm/send")

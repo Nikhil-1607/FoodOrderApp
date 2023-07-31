@@ -1,5 +1,5 @@
 <h2 align="centre"> FoodON: </h2>
-A chatting application that works on firebase features to work on Android devices.
+Android development based delivery application aimed at helping small scale businesses.
 
 <h2 align="centre"> Features: </h2>
 <ul>1)Login/Signup</ul>
